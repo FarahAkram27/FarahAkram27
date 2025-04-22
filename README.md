@@ -4,9 +4,13 @@
   • 👩‍💻 Computer Engineering Student 
 </p>
 
-<p align="right">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1jbjM0NDE0Z3h1OHZ2Y2VoYzJqcTJoN212NWV5dHc3c2swdnR1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WOwiryOPA0G6jhKqB0/giphy.gif" width="200" alt="relaxing gif"/>
-</p>
+<div align="center">
+  <p align="left" style="display: inline;">
+    • 👩‍💻 Computer Engineering Student 
+  </p>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1jbjM0NDE0Z3h1OHZ2Y2VoYzJqcTJoN212NWV5dHc3c2swdnR1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WOwiryOPA0G6jhKqB0/giphy.gif" width="200" alt="relaxing gif" style="display: inline; vertical-align: middle;"/>
+</div>
+
 
 ---
 
