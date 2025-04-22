@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  • <span style="font-size: 30px; font-weight: bold; color: #333;">Computer Engineering Student</span>
+  • <span style="font-size: 20px; font-weight: bold; color: #333;">Computer Engineering Student</span>
 </p>
 
 
