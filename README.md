@@ -6,11 +6,8 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1jbjM0NDE0Z3h1OHZ2Y2VoYzJqcTJoN212NWV5dHc3c2swdnR1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WOwiryOPA0G6jhKqB0/giphy.gif" width="300" alt="relaxing gif" />
 </div>
 
-<p align="center">
-  <span style="font-size: 20px; font-weight: bold; color: #111111;">**• 👩🏻‍💻 Computer System Engineering**Student</span>
-</p>
 
-
+**• 👩🏻‍💻 Computer System Engineering Student**
 
 ---
 
