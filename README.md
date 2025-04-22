@@ -50,6 +50,12 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB3eHd2MGR3a29vZmxvZmNxZG1vdmtjbDVpNHBtbmpoMTR0ZWE0aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="350" alt="Cute pastel gif" />
 </p>
 
+### ✨ A Little Vibe for You
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2JieG52dG1rOGxvOGE2NG84Z21vMmxtZ2wzd2VjaGpnZnljbHQ2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bVyuy03qTLAelRKshL/giphy.gif" width="300" alt="relaxing gif"/>
+</p>
+
 
 
 > _"With a kind heart and a strong will, you can shine even in the darkest code."_
