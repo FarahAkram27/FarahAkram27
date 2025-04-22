@@ -36,9 +36,8 @@
 
 ### ✨ A Little Vibe for You
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hp3dmEUMvOiti/giphy.gif" width="300"/>
-</p>
+
+<p align="center"> <img src="https://media.giphy.com/media/hp3dmEUMvOiti/giphy.gif" width="300" alt="relaxing gif"/> </p>
 
 > _"With a kind heart and a strong will, you can shine even in the darkest code."_
 
