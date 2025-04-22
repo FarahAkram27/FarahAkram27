@@ -1,24 +1,46 @@
-<h1 align="center">Hi there, I'm Farah 👋</h1>
+<h1 align="center">Hi there, I'm Farah! 👋</h1>
 
 <p align="center">
-<img src="[https://raw.githubusercontent.com/FarahAkram27/FarahAkram27/main/FarahAkram.png"](https://i.pinimg.com/736x/99/4b/2d/994b2d40a2f0a9702055cdb291bc6301.jpg
-) width="400"/>
+  👩‍💻 Computer Engineering Student • 💭 Dreamer • 💖 Kind-hearted
 </p>
 
 ---
 
-### 🌸 About Me
+### 💫 About Me
 
-- 👩‍💻 I’m a Computer Engineering student.
-- 🌱 I love learning & growing my programming skills.
-- 💡 I believe in dreaming big and working hard.
-- 🎯 I hope to start my own meaningful project one day.
-- 💕 Always aiming to spread goodness and positivity.
+- 👩‍🎓 First engineer in my family, studying Computer Engineering at **Khodori University**.
+- 🌱 Currently learning **Git**, **GitHub**, and building my coding confidence one step at a time.
+- 💡 I believe in learning slowly but deeply—with patience, heart, and real understanding.
+- 🌟 I dream of launching my own unique tech project that makes a difference.
+- 🕊️ I love being remembered for kindness, support, and giving 🌸
+
+---
+
+### 🔧 Tech I'm Learning
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Java]([https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white))
+![C++]([https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white))
 
 ---
 
-### 💌 Let’s Connect
+### 🌐 Connect With Me
 
-[![Gmail]([akramfarahh2006@gmail.com](https://myaccount.google.com/?tab=kk&utm_source=OGB&utm_medium=app))
+- 📧 [your-email@example.com](mailto:your-email@example.com)
+- 📸 [Instagram]([https://instagram.com/](https://www.instagram.com/ffa.909?next=%2F))
+- 💼 [LinkedIn]([https://linkedin.com/)](https://myaccount.google.com/?hl=ar&utm_source=OGB&utm_medium=act&gar=WzEyMF0)
 
 ---
+
+### ✨ A Little Vibe for You
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hp3dmEUMvOiti/giphy.gif" width="300"/>
+</p>
+
+> _"With a kind heart and a strong will, you can shine even in the darkest code."_
+
+---
+
+🦋 *Thanks for visiting my profile! I'm always learning, always growing—one line of code at a time.*
