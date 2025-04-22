@@ -20,7 +20,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Java]([https://img.shields.io/badge/ava-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
@@ -28,7 +28,7 @@
 ### 🌐 Connect With Me
 
 - 📧 [your-email@example.com](mailto:your-email@example.com)
-- 📸 [Instagram]([[https://instagram.com/](https://www.instagram.com/ffa.909?next=%2F)](https://www.instagram.com/ffa.909?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==))
+- 📸 [Instagram]((https://www.instagram.com/ffa.909?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==))
 - 💼 [LinkedIn]([https://linkedin.com/)](https://myaccount.google.com/?hl=ar&utm_source=OGB&utm_medium=act&gar=WzEyMF0)
 
 ---
