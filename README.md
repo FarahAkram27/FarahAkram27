@@ -12,7 +12,7 @@
 - 🌱 Currently learning **Git**, **GitHub**, and building my coding confidence one step at a time.
 - 💡 I believe in learning slowly but deeply—with patience, heart, and real understanding.
 - 🌟 I dream of launching my own unique tech project that makes a difference.
-- 🥋️ I love being remembered for kindness, support, and giving 🌸
+- 🕊️ I love being remembered for kindness, support, and giving 🌸
 
 ---
 
@@ -30,17 +30,21 @@
 - 📧 [your-email@example.com](mailto:your-email@example.com)
 - 👤 [facebook](https://www.facebook.com/profile.php?id=100018106394819)
 - 📸 [Instagram](https://www.instagram.com/ffa.909?next=%2F)
-- 💼 [LinkedIn](https://www.linkedin.com/in/farah-yourname)
+- 💼 [LinkedIn]([https://linkedin.com/)](https://myaccount.google.com/?hl=ar&utm_source=OGB&utm_medium=act&gar=WzEyMF0)
 
 ---
 
 ### ✨ A Little Vibe for You
 
-<p align="center"> <img src="https://media.giphy.com/media/hp3dmEUMvOiti/giphy.gif" width="300" alt="relaxing gif"/> </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB3eHd2MGR3a29vZmxvZmNxZG1vdmtjbDVpNHBtbmpoMTR0ZWE0aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="350" alt="Cute pastel gif" />
+</p>
+
+
 
 > _"With a kind heart and a strong will, you can shine even in the darkest code."_
 
 ---
 
-🦤 *Thanks for visiting my profile! I'm always learning, always growing—one line of code at a time.*
-
+🦋 *Thanks for visiting my profile! I'm always learning, always growing—one line of code at a time.*
