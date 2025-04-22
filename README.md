@@ -4,6 +4,12 @@
   👩‍💻 Computer Engineering Student • 💭 Dreamer • 💖 Kind-hearted
 </p>
 
+### ✨ A Little Vibe for You
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hp3dmEUMvOiti/giphy.gif" width="300" alt="relaxing gif"/>
+</p>
+
 ---
 
 ### 💫 About Me
