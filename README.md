@@ -7,7 +7,7 @@
 </div>
 
 
-                    **• 👩🏻‍💻 Computer System Engineering Student**
+  **• 👩🏻‍💻 Computer System Engineering Student**
 
 ---
 
