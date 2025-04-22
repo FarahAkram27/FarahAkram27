@@ -7,13 +7,13 @@
 </div>
 
 
-  **• 👩🏻‍💻 Computer System Engineering Student**
+  ###               • 👩🏻‍💻 Computer System Engineering Student
 
 ---
 
 ### 💫 About Me
 
-- 👩‍🎓 First engineer in my family, studying Computer Engineering at
+- 👩‍🎓 First engineer in my family, studying Computer System Engineering at
   
   **Palestine Technical University - Kadoorie**
 - 🌱 Currently learning **Git**, **GitHub**, and building my coding confidence one step at a time.
