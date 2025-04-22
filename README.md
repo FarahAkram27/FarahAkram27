@@ -13,7 +13,8 @@
 
 ### 💫 About Me
 
-- 👩‍🎓 First engineer in my family, studying Computer Engineering at **Khodori University**.
+- 👩‍🎓 First engineer in my family, studying Computer Engineering at
+  **Palestine Technical University - Kadoorie**
 - 🌱 Currently learning **Git**, **GitHub**, and building my coding confidence one step at a time.
 - 💡 I believe in learning slowly but deeply—with patience, heart, and real understanding.
 - 🌟 I dream of launching my own unique tech project that makes a difference.
