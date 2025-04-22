@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm Farah 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FarahAkram27/FarahAkram27/main/A_digital_illustration_introduces_Farah_with_paste.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/FarahAkram27/FarahAkram27/main/A_digital_illustration_introduces_Farah_with_paste.png
+" width="400"/>
 </p>
 
 ---
@@ -18,6 +19,6 @@
 
 ### 💌 Let’s Connect
 
-[![Gmail](akramfarahh2006@gmail.com)
+[![Gmail]([akramfarahh2006@gmail.com](https://myaccount.google.com/?tab=kk&utm_source=OGB&utm_medium=app))
 
 ---
