@@ -6,9 +6,11 @@
 
 ### ✨ A Little Vibe for You
 
+
 <p align="center">
-  <img src="https://media.giphy.com/media/hp3dmEUMvOiti/giphy.gif" width="300" alt="relaxing gif"/>
+  <img src="https://media.giphy.com/media/7wMw9f3v91W2Zbgp0Y/giphy.gif" width="300" alt="relaxing gif"/>
 </p>
+
 
 ---
 
