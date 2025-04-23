@@ -37,7 +37,7 @@
 
 - 👤 [facebook](https://www.facebook.com/profile.php?id=100018106394819)
 - 📸 [Instagram](https://www.instagram.com/ffa.909?next=%2F)
-- 💼 [LinkedIn]([https://linkedin.com/)](https://myaccount.google.com/?hl=ar&utm_source=OGB&utm_medium=act&gar=WzEyMF0)
+- 💼 [LinkedIn]([https://linkedin.com/)](www.linkedin.com/in/farah-akram-794049336)
 
 ---
 
